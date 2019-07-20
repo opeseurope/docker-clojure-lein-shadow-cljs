@@ -1,5 +1,5 @@
 FROM node:latest
-MAINTAINER Andrew Phillips <theasp@gmail.com>
+MAINTAINER Boy Maas <boy@opeseurope.com>
 
 WORKDIR /tmp
 ENV CLOJURE_VER=1.10.0.442
